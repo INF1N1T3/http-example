@@ -1,0 +1,20 @@
+{
+  "name": "http-server-prot",
+  "version": "1.0.0",
+  "description": "YA EBLAN",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "app",
+    "express",
+    "http"
+  ],
+  "author": "DEBIL",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
